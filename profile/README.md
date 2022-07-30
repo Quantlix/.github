@@ -1,5 +1,7 @@
 ## Hi there 👋 Welcome to Quantlix
 
+Quantlix specializes in creating intelligent software solutions for businesses of all sizes using AI technology. We use the latest AI technology to develop custom software applications that are designed to meet the specific needs of our clients. Our team of experienced developers and AI experts are committed to providing the best possible software solutions to our clients. We believe that AI-based software solutions have the potential to revolutionize the way businesses operate and we are dedicated to helping our clients realize this potential.
+
 <!--
 
 **Here are some ideas to get you started:**
