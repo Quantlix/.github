@@ -1,19 +1,13 @@
-## Hi there 👋 Welcome to Quantlix
+# Quantlix
 
-Quantlix specializes in creating intelligent software solutions for businesses of all sizes using AI technology. We use the latest AI technology to develop custom software applications that are designed to meet the specific needs of our clients. Our team of experienced developers and AI experts are committed to providing the best possible software solutions to our clients. We believe that AI-based software solutions have the potential to revolutionize the way businesses operate and we are dedicated to helping our clients realize this potential.
+Quantlix is an agentic AI lab in Islamabad building for climate, energy, and agriculture. We design, build, and run long-running AI agents: systems that monitor sensor networks, reason over field and grid data, and carry out multi-step operations with checkpointing, evals, and human escalation built in.
 
-# Services 
-### Web & Mobile App Designing
+We are small on purpose. A handful of senior engineers ships faster than a big bench, and every client works directly with the people who build their system.
 
-We design and develop modern user-friendly websites and mobile apps that help businesses grow online. Our team of experienced professionals will work with you to create a custom website or app that meets your specific needs and exceeds your expectations. We use the latest technologies and design trends to create beautiful and effective websites and apps that are responsive and mobile-friendly. We also offer a wide range of additional services, including SEO, online marketing, and website maintenance and support. Contact us today to learn more about our Web & Mobile Designing services.
+Our practice: harness engineering (evals, guardrails, simulation), sovereign deployment (open-weight models on your infrastructure), and forward-deployed delivery (our engineers embed with your operations team).
 
-<!--
+## Open source
+- [anycode](https://github.com/Quantlix/anycode): Python framework for coordinated AI agent teams.
+- [anycodejs](https://github.com/Quantlix/anycodejs): TypeScript framework for orchestrating collaborative AI agents.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Founded by [Ali Muhammad](https://www.alimuhammadthinks.com) in 2023 · [quantlix.com](https://quantlix.com) · info@quantlix.com
