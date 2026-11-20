@@ -1,6 +1,6 @@
 # Quantlix
 
-Quantlix is an agentic AI lab in Islamabad building for climate, energy, and agriculture. We design, build, and run long-running AI agents: systems that monitor sensor networks, reason over field and grid data, and carry out multi-step operations with checkpointing, evals, and human escalation built in.
+Quantlix is an agentic AI lab in Rawalpindi building for climate, energy, and agriculture. We design, build, and run long-running AI agents: systems that monitor sensor networks, reason over field and grid data, and carry out multi-step operations with checkpointing, evals, and human escalation built in.
 
 We are small on purpose. A handful of senior engineers ships faster than a big bench, and every client works directly with the people who build their system.
 
